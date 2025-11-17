@@ -71,7 +71,9 @@ mvn clean install
 ✔ 4. Configure browser in configuration.properties
 
 baseUrl=https://www.advantageonlineshopping.com/#/
+
 browser=chrome
+
 timeout=10
 
 ✔ 5. Run Smoke Suite
